@@ -1,11 +1,11 @@
 language: node_js
 node_js:
-  - "0.10"
+  - "0.12"
   - "4.9"
   - "6.17"
-  - "8.16"
-  - "10.16"
-  - "12.11"
+  - "8.17"
+  - "10.24"
+  - "12.22"
 sudo: false
 cache:
   directories:
